@@ -11,7 +11,7 @@
         "app_url": "https://currencyconv.onrender.com/telex/convert/",
         "background_color": "#0073e6"
       },
-      "integration_category": "Financial",
+      "integration_category": "Finance & Payments",
       "integration_type": "modifier",
       "is_active": false,
       "output": [
