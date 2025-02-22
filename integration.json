@@ -24,7 +24,8 @@
         "Real-time currency conversion",
         "Automatic command parsing",
         "Robust error handling",
-        "Support for multiple currencies"
+        "Support for multiple currencies",
+        "Selectable currencies"
       ],
       "permissions": {
         "currency_converter_user": {
@@ -43,7 +44,7 @@
           "label": "Supported Currencies",
           "type": "multi-checkbox",
           "required": true,
-          "default": "USD,EUR,GBP,JPY",
+          "default": "USD,EUR,GBP,JPY,NGN",
           "options": [
             "AED", "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AUD", "AWG", "AZN",
             "BAM", "BBD", "BDT", "BGN", "BHD", "BIF", "BMD", "BND", "BOB", "BRL",
