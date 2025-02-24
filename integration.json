@@ -8,7 +8,7 @@
         "app_description": "Telex Currency Converter listens for currency conversion commands (e.g., \"/convert 100 USD to EUR\") and returns the converted amount using real-time exchange rates fetched from an external API.",
         "app_logo": "https://example.com/telex-currency-logo.png",
         "app_name": "Telex Currency Converter",
-        "app_url": "https://currencyconv.onrender.com/",
+        "app_url": "https://currencyconv.onrender.com",
         "background_color": "#0073e6"
       },
       "integration_category": "Finance & Payments",
