@@ -38,7 +38,7 @@
         "label": "Currency API Key",
         "type": "text",
         "description": "The API key for the currency conversion service.",
-        "default": "YOUR_API_KEY_HERE",
+        "default": "a4c147fa2fe98e5d629ff47f",
         "required": true
       },
       {
