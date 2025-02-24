@@ -13,13 +13,14 @@
       },
       "integration_category": "Finance & Payments",
       "integration_type": "modifier",
+      "target_url": "https://currencyconv.onrender.com/telex/convert/",
       "output": [
         {
           "label": "Converted Message",
           "value": true
         }
       ],
-    "target_url": "https://currencyconv.onrender.com/telex/convert/",
+   
     "key_features": [
       "Real-time conversion",
       "Automatic command parsing",
