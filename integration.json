@@ -19,6 +19,7 @@
           "value": true
         }
       ],
+    "target_url": "https://currencyconv.onrender.com/telex/convert/",
     "key_features": [
       "Real-time conversion",
       "Automatic command parsing",
