@@ -16,7 +16,7 @@
       "target_url": "https://currencyconv.onrender.com/telex/convert/",
       "output": [
         {
-          "label": "Converted Message",
+          "label": "message_converted",
           "value": true
         }
       ],
